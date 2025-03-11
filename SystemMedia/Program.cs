@@ -18,7 +18,10 @@ namespace SystemMedia
         {
             SelectWav sw = new SelectWav();
             sw.UserChoice();
+            Console.WriteLine("Press any key to exit...");
         }
+
+
     }
 }
 //================================================================================================================================================================//
